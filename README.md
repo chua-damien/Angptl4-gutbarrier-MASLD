@@ -1,7 +1,7 @@
 # Angptl4-gutbarrier-MASLD
 
 Scripts in this repository is associated with the manuscript:
-> Chua D., ... Tan N.S., manuscript entitled "Gut barrier dysfunction mediated by intestinal angptl4 links dietary factors and microbial dysbiosis to oxidative hepatic injury in MASH", under submission.
+> Chua D., ... Tan N.S., manuscript entitled "Angptl4 Integrates Dietary and Microbial Signals to Disrupt Gut Barrier Function in MASH.", under revision in Nature Communications.
 
 
 
