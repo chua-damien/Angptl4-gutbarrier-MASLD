@@ -7,7 +7,7 @@ Scripts in this repository is associated with the manuscript:
 
 # Scripts
 
-R scripts are located at `./Scripts` consisting of:
+R scripts are located at `./scripts` consisting of:
 
 1. RNAseq- 2w IEC.R   
 This script is used to analyse intestinal epithelial transcriptomics of Angptl4<sup>flfl</sup> and Angptl4<sup>Vil1-/-</sup> littermates that are being fed on LIDPAD or control diets for 2 weeks. The analyses were presented in Figures 1G-J, 2F-G.  
